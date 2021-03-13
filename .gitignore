@@ -1,0 +1,13 @@
+/*
+
+!.gitignore
+!plugins/*
+!plugins/*.jar
+!paper-1.16.5-544.jar 
+!permissions.yml
+!spigot.yml
+!paper.yml
+!server.properties
+!commands.yml
+!plugins/CommandPanels
+!start.sh
